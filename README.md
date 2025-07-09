@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/3mdistal-css-mcp-server-badge.png)](https://mseep.ai/app/3mdistal-css-mcp-server)
+
 # Building a CSS Tutor MCP Server
 
 This repo contains a simple Model Context Protocol (MCP) server built with Node.js and TypeScript. It acts as a "CSS Tutor," providing personalized updates about CSS features to a connected AI client.
